@@ -7,7 +7,7 @@ Vagrant Development Environment for Kick-Starting Developing an application in t
   You must have [vagrant](http://www.vagrantup.com/) installed.
 
 ### Quick Start
-1. Clone the repo: `git clone git://github.com/cmoudy/mean-vagrant.git`
+1. Clone the repo: `git clone git://github.com/Escuelait/mean-vagrant.git`
 * Launch machines with `vagrant up` from clone'd folder.
 * SSH to appserver via command `vagrant ssh appserver`
 * Launch appserver from folder `/usr/local/src/mean/mytestapp` with command `node app.js`
